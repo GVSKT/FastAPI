@@ -1,4 +1,2 @@
 fastapi==0.87.0
 uvicorn==0.20.0
-bson==0.5.10
-pypi-json==0.3.0

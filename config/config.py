@@ -1,5 +1,5 @@
 from os.path import dirname,abspath ,isfile,join
-import json,socket
+import json
 
 def db_config():
     with open(dirname(abspath(__file__))+r'/config.json','r') as json_file:
