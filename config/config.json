@@ -2,6 +2,7 @@
 
   "db_config": {
     "URI" : "mongodb://test:pwd_2020@3.111.35.225:27017/?directConnection=true&authMechanism=DEFAULT",
-    "collection_name": "users"
+    "collection_name": "roundtableanalytics"
+
   }
 }
